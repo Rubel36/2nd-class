@@ -1,0 +1,18 @@
+body{
+	background-image: url("pexels1.png");
+	width: 1140px;
+}
+.container{
+	width: 500px;
+	margin: 20%;
+	padding: 90px 90px;
+    background-color: rgb(18,234,179);
+}
+h3{
+	color: blue;
+}
+.control{
+	padding: 10px 10px;
+	color: blue;
+	background-color: rgb(180,129,236);
+}
